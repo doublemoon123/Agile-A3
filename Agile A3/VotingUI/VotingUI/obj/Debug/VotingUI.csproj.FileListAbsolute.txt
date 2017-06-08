@@ -1,0 +1,9 @@
+C:\Users\piloy002\Desktop\Agile A3\VotingUI\VotingUI\bin\Debug\VotingUI.exe.config
+C:\Users\piloy002\Desktop\Agile A3\VotingUI\VotingUI\bin\Debug\VotingUI.exe
+C:\Users\piloy002\Desktop\Agile A3\VotingUI\VotingUI\bin\Debug\VotingUI.pdb
+C:\Users\piloy002\Desktop\Agile A3\VotingUI\VotingUI\obj\Debug\VotingUI.csprojResolveAssemblyReference.cache
+C:\Users\piloy002\Desktop\Agile A3\VotingUI\VotingUI\obj\Debug\VotingUI.Form1.resources
+C:\Users\piloy002\Desktop\Agile A3\VotingUI\VotingUI\obj\Debug\VotingUI.Properties.Resources.resources
+C:\Users\piloy002\Desktop\Agile A3\VotingUI\VotingUI\obj\Debug\VotingUI.csproj.GenerateResource.Cache
+C:\Users\piloy002\Desktop\Agile A3\VotingUI\VotingUI\obj\Debug\VotingUI.exe
+C:\Users\piloy002\Desktop\Agile A3\VotingUI\VotingUI\obj\Debug\VotingUI.pdb
